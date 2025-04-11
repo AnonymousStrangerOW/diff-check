@@ -1,4 +1,4 @@
-# What is Diff Check?
+# What is Diff Generator?
 This simple PowerShell Script compares changes from one file to another and outputs it into a file. Its original purpose is to show changes made in english.json for translators working on the Outer Wilds mod, The Stranger They Are.
 
 # Compatibility
